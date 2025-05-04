@@ -36,7 +36,6 @@ Das Projekt wurde im Rahmen meiner Bachelorarbeit an der DHBW Heilbronn in Koope
 ## Projektstruktur
 
 ```plaintext
-.
 ├── data/
 │   ├── Cybercrime_Cases.csv        # Testdatensatz mit 50 Cybercrime-Fällen
 │   └── README.md                   # Beschreibung des Datensatzes
@@ -52,6 +51,7 @@ Das Projekt wurde im Rahmen meiner Bachelorarbeit an der DHBW Heilbronn in Koope
 │   └── README.md                   # Beschreibung der Analysekomponenten
 ├── README.md                       # Diese Projektbeschreibung
 └── LICENSE                         # Lizenzinformation
+```
 
 ---
 
