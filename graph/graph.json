@@ -1,0 +1,2509 @@
+﻿[
+  {
+    "n": {
+      "identity": 0,
+      "labels": [
+        "Law"
+      ],
+      "properties": {
+        "Example": "Illegal copies of software programs.",
+        "CrimeType": "Violation of copyright exploitation rights of electronically protected data.",
+        "id": "Copyright Infringement (§§ 106 Ff. Urhg)"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:0"
+    }
+  },
+  {
+    "n": {
+      "identity": 1,
+      "labels": [
+        "Law"
+      ],
+      "properties": {
+        "Example": "Using company logos in phishing emails.",
+        "CrimeType": "Unauthorized use of a registered trademark.",
+        "id": "Trademark Infringement (§§ 143, 143A Markeng)"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:1"
+    }
+  },
+  {
+    "n": {
+      "identity": 2,
+      "labels": [
+        "Law"
+      ],
+      "properties": {
+        "id": "Money Laundering (§ 261 Stgb)"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:2"
+    }
+  },
+  {
+    "n": {
+      "identity": 3,
+      "labels": [
+        "Concept"
+      ],
+      "properties": {
+        "id": "Internet Service Provider (Isp)"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:3"
+    }
+  },
+  {
+    "n": {
+      "identity": 4,
+      "labels": [
+        "Concept"
+      ],
+      "properties": {
+        "id": "E-Mail Client"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:4"
+    }
+  },
+  {
+    "n": {
+      "identity": 5,
+      "labels": [
+        "Method"
+      ],
+      "properties": {
+        "id": "Header Extraction"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:5"
+    }
+  },
+  {
+    "n": {
+      "identity": 6,
+      "labels": [
+        "Method"
+      ],
+      "properties": {
+        "id": "Header Evaluation"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:6"
+    }
+  },
+  {
+    "n": {
+      "identity": 7,
+      "labels": [
+        "Target"
+      ],
+      "properties": {
+        "id": "E-Mail Sender"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:7"
+    }
+  },
+  {
+    "n": {
+      "identity": 8,
+      "labels": [
+        "Target"
+      ],
+      "properties": {
+        "id": "Internet Service Provider Data"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:8"
+    }
+  },
+  {
+    "n": {
+      "identity": 9,
+      "labels": [
+        "Target"
+      ],
+      "properties": {
+        "id": "Ip Address Tracking"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:9"
+    }
+  },
+  {
+    "n": {
+      "identity": 10,
+      "labels": [
+        "Concept"
+      ],
+      "properties": {
+        "id": "Steal Sensitive Data"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:10"
+    }
+  },
+  {
+    "n": {
+      "identity": 11,
+      "labels": [
+        "Group"
+      ],
+      "properties": {
+        "id": "Corporate Employees"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:11"
+    }
+  },
+  {
+    "n": {
+      "identity": 12,
+      "labels": [
+        "Group"
+      ],
+      "properties": {
+        "id": "Corporate Executives"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:12"
+    }
+  },
+  {
+    "n": {
+      "identity": 13,
+      "labels": [
+        "Concept"
+      ],
+      "properties": {
+        "id": "Spam Emails"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:13"
+    }
+  },
+  {
+    "n": {
+      "identity": 14,
+      "labels": [
+        "Concept"
+      ],
+      "properties": {
+        "id": "Chatrooms"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:14"
+    }
+  },
+  {
+    "n": {
+      "identity": 15,
+      "labels": [
+        "Concept"
+      ],
+      "properties": {
+        "id": "Dating Platforms"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:15"
+    }
+  },
+  {
+    "n": {
+      "identity": 16,
+      "labels": [
+        "Concept"
+      ],
+      "properties": {
+        "id": "Classified Ad Portals"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:16"
+    }
+  },
+  {
+    "n": {
+      "identity": 17,
+      "labels": [
+        "Concept"
+      ],
+      "properties": {
+        "id": "Job Boards"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:17"
+    }
+  },
+  {
+    "n": {
+      "identity": 18,
+      "labels": [
+        "Phenomenon"
+      ],
+      "properties": {
+        "id": "Hacking"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:18"
+    }
+  },
+  {
+    "n": {
+      "identity": 19,
+      "labels": [
+        "Method"
+      ],
+      "properties": {
+        "id": "Unauthorized Intrusion"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:19"
+    }
+  },
+  {
+    "n": {
+      "identity": 20,
+      "labels": [
+        "Method"
+      ],
+      "properties": {
+        "id": "Deception"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:20"
+    }
+  },
+  {
+    "n": {
+      "identity": 21,
+      "labels": [
+        "Method"
+      ],
+      "properties": {
+        "id": "Fraud"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:21"
+    }
+  },
+  {
+    "n": {
+      "identity": 22,
+      "labels": [
+        "Method"
+      ],
+      "properties": {
+        "id": "Sabotage"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:22"
+    }
+  },
+  {
+    "n": {
+      "identity": 23,
+      "labels": [
+        "Method"
+      ],
+      "properties": {
+        "id": "Information Theft"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:23"
+    }
+  },
+  {
+    "n": {
+      "identity": 24,
+      "labels": [
+        "Tool"
+      ],
+      "properties": {
+        "id": "Hacker Tools"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:24"
+    }
+  },
+  {
+    "n": {
+      "identity": 25,
+      "labels": [
+        "Law"
+      ],
+      "properties": {
+        "Example": "Phishing, identity theft.",
+        "CrimeType": "Obtaining personal data fraudulently.",
+        "id": "Data Protection Violation (§ 42 Bdsg)"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:25"
+    }
+  },
+  {
+    "n": {
+      "identity": 26,
+      "labels": [
+        "Law"
+      ],
+      "properties": {
+        "Example": "DDoS attacks.",
+        "CrimeType": "Digital vandalism through disruption of IT processes.",
+        "id": "Data Modiﬁcation (§ 303A Stgb)"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:26"
+    }
+  },
+  {
+    "n": {
+      "identity": 27,
+      "labels": [
+        "Law"
+      ],
+      "properties": {
+        "Example": "DDoS attacks.",
+        "CrimeType": "Digital vandalism through disruption of IT processes.",
+        "id": "Computer Sabotage (§ 303B Stgb)"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:27"
+    }
+  },
+  {
+    "n": {
+      "identity": 28,
+      "labels": [
+        "Phenomenon"
+      ],
+      "properties": {
+        "id": "Malware"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:28"
+    }
+  },
+  {
+    "n": {
+      "identity": 29,
+      "labels": [
+        "Phenomenon"
+      ],
+      "properties": {
+        "id": "Trojan"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:29"
+    }
+  },
+  {
+    "n": {
+      "identity": 30,
+      "labels": [
+        "Concept"
+      ],
+      "properties": {
+        "id": "Date And Time Of Sending"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:30"
+    }
+  },
+  {
+    "n": {
+      "identity": 31,
+      "labels": [
+        "Concept"
+      ],
+      "properties": {
+        "id": "Keylogging"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:31"
+    }
+  },
+  {
+    "n": {
+      "identity": 32,
+      "labels": [
+        "Concept"
+      ],
+      "properties": {
+        "id": "Snifﬁng"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:32"
+    }
+  },
+  {
+    "n": {
+      "identity": 33,
+      "labels": [
+        "Concept"
+      ],
+      "properties": {
+        "id": "Man-In-The-Browser Attack"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:33"
+    }
+  },
+  {
+    "n": {
+      "identity": 34,
+      "labels": [
+        "Concept"
+      ],
+      "properties": {
+        "id": "Camfecting"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:34"
+    }
+  },
+  {
+    "n": {
+      "identity": 35,
+      "labels": [
+        "Concept"
+      ],
+      "properties": {
+        "id": "Utilized Servers On The Route"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:35"
+    }
+  },
+  {
+    "n": {
+      "identity": 36,
+      "labels": [
+        "Concept"
+      ],
+      "properties": {
+        "id": "Drive-By-Download"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:36"
+    }
+  },
+  {
+    "n": {
+      "identity": 37,
+      "labels": [
+        "Technology"
+      ],
+      "properties": {
+        "id": "Backdoor Programs"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:37"
+    }
+  },
+  {
+    "n": {
+      "identity": 38,
+      "labels": [
+        "Technology"
+      ],
+      "properties": {
+        "id": "Spam Email Attachments"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:38"
+    }
+  },
+  {
+    "n": {
+      "identity": 39,
+      "labels": [
+        "Event"
+      ],
+      "properties": {
+        "id": "Online Banking Manipulation"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:39"
+    }
+  },
+  {
+    "n": {
+      "identity": 40,
+      "labels": [
+        "Law"
+      ],
+      "properties": {
+        "Example": "Ransomware attacks.",
+        "CrimeType": "Encryption of data followed by ransom demand.",
+        "id": "Extortion (§ 253 Abs. 1 Stgb)"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:40"
+    }
+  },
+  {
+    "n": {
+      "identity": 41,
+      "labels": [
+        "Concept"
+      ],
+      "properties": {
+        "id": "Analysis Of Technical Information About The E-Mail’S Route"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:41"
+    }
+  },
+  {
+    "n": {
+      "identity": 42,
+      "labels": [
+        "Concept",
+        "Technology"
+      ],
+      "properties": {
+        "id": "It Systems"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:42"
+    }
+  },
+  {
+    "n": {
+      "identity": 43,
+      "labels": [
+        "Concept"
+      ],
+      "properties": {
+        "id": "Fake Transaction Inputs"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:43"
+    }
+  },
+  {
+    "n": {
+      "identity": 44,
+      "labels": [
+        "Concept"
+      ],
+      "properties": {
+        "id": "Malware Specialized In Extortion"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:44"
+    }
+  },
+  {
+    "n": {
+      "identity": 45,
+      "labels": [
+        "Concept"
+      ],
+      "properties": {
+        "id": "Prevent System Or Data Access"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:45"
+    }
+  },
+  {
+    "n": {
+      "identity": 46,
+      "labels": [
+        "Phenomenon"
+      ],
+      "properties": {
+        "id": "Identity Theft"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:46"
+    }
+  },
+  {
+    "n": {
+      "identity": 47,
+      "labels": [
+        "Concept"
+      ],
+      "properties": {
+        "id": "Fake Account"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:47"
+    }
+  },
+  {
+    "n": {
+      "identity": 48,
+      "labels": [
+        "Target"
+      ],
+      "properties": {
+        "id": "Personal Data"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:48"
+    }
+  },
+  {
+    "n": {
+      "identity": 49,
+      "labels": [
+        "Target"
+      ],
+      "properties": {
+        "id": "Reputation"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:49"
+    }
+  },
+  {
+    "n": {
+      "identity": 50,
+      "labels": [
+        "Event"
+      ],
+      "properties": {
+        "id": "Unauthorized Financial Transaction"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:50"
+    }
+  },
+  {
+    "n": {
+      "identity": 51,
+      "labels": [
+        "Event"
+      ],
+      "properties": {
+        "id": "Fraudulent Online Purchase"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:51"
+    }
+  },
+  {
+    "n": {
+      "identity": 52,
+      "labels": [
+        "Event"
+      ],
+      "properties": {
+        "id": "Social Media Impersonation"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:52"
+    }
+  },
+  {
+    "n": {
+      "identity": 53,
+      "labels": [
+        "Method"
+      ],
+      "properties": {
+        "id": "Data Spying"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:53"
+    }
+  },
+  {
+    "n": {
+      "identity": 54,
+      "labels": [
+        "Method"
+      ],
+      "properties": {
+        "id": "Data Interception"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:54"
+    }
+  },
+  {
+    "n": {
+      "identity": 55,
+      "labels": [
+        "Method"
+      ],
+      "properties": {
+        "id": "Fake Account Creation"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:55"
+    }
+  },
+  {
+    "n": {
+      "identity": 56,
+      "labels": [
+        "Law"
+      ],
+      "properties": {
+        "id": "Misrepresentation Of Personal Data (§ 42 Abs. 2 Nr. 2 Bdsg)"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:56"
+    }
+  },
+  {
+    "n": {
+      "identity": 57,
+      "labels": [
+        "Law"
+      ],
+      "properties": {
+        "id": "Stalking (§ 238 Stgb)"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:57"
+    }
+  },
+  {
+    "n": {
+      "identity": 58,
+      "labels": [
+        "Law"
+      ],
+      "properties": {
+        "id": "Document Forgery (§ 276 Stgb)"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:58"
+    }
+  },
+  {
+    "n": {
+      "identity": 59,
+      "labels": [
+        "Law"
+      ],
+      "properties": {
+        "id": "False Accusation (§ 164 Stgb)"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:59"
+    }
+  },
+  {
+    "n": {
+      "identity": 60,
+      "labels": [
+        "Law"
+      ],
+      "properties": {
+        "id": "Unauthorized Data Processing (§ 42 Abs. 2 Nr. 1 Bdsg)"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:60"
+    }
+  },
+  {
+    "n": {
+      "identity": 61,
+      "labels": [
+        "Concept"
+      ],
+      "properties": {
+        "id": "Misuse Of Personal Data By Unauthorized Third Parties"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:61"
+    }
+  },
+  {
+    "n": {
+      "identity": 62,
+      "labels": [
+        "Concept"
+      ],
+      "properties": {
+        "id": "Harm Financial Assets"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:62"
+    }
+  },
+  {
+    "n": {
+      "identity": 63,
+      "labels": [
+        "Concept"
+      ],
+      "properties": {
+        "id": "Damage Reputation"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:63"
+    }
+  },
+  {
+    "n": {
+      "identity": 64,
+      "labels": [
+        "Concept"
+      ],
+      "properties": {
+        "id": "Stolen Personal Data"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:64"
+    }
+  },
+  {
+    "n": {
+      "identity": 65,
+      "labels": [
+        "Phenomenon"
+      ],
+      "properties": {
+        "id": "Romance-Scamming"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:65"
+    }
+  },
+  {
+    "n": {
+      "identity": 66,
+      "labels": [
+        "Concept"
+      ],
+      "properties": {
+        "id": "Emotional Manipulation"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:66"
+    }
+  },
+  {
+    "n": {
+      "identity": 67,
+      "labels": [
+        "Concept"
+      ],
+      "properties": {
+        "id": "Trust Relationship"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:67"
+    }
+  },
+  {
+    "n": {
+      "identity": 68,
+      "labels": [
+        "Concept"
+      ],
+      "properties": {
+        "id": "Emergency Scenario"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:68"
+    }
+  },
+  {
+    "n": {
+      "identity": 69,
+      "labels": [
+        "Target"
+      ],
+      "properties": {
+        "id": "Victim'S Emotions"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:69"
+    }
+  },
+  {
+    "n": {
+      "identity": 70,
+      "labels": [
+        "Target"
+      ],
+      "properties": {
+        "id": "Financial Assets"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:70"
+    }
+  },
+  {
+    "n": {
+      "identity": 71,
+      "labels": [
+        "Tool"
+      ],
+      "properties": {
+        "id": "Dating Platforms"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:71"
+    }
+  },
+  {
+    "n": {
+      "identity": 72,
+      "labels": [
+        "Tool"
+      ],
+      "properties": {
+        "id": "Social Networks"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:72"
+    }
+  },
+  {
+    "n": {
+      "identity": 73,
+      "labels": [
+        "Method"
+      ],
+      "properties": {
+        "id": "Emotional Dependency Creation"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:73"
+    }
+  },
+  {
+    "n": {
+      "identity": 74,
+      "labels": [
+        "Law"
+      ],
+      "properties": {
+        "id": "Fraud (§ 263 Stgb)"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:74"
+    }
+  },
+  {
+    "n": {
+      "identity": 75,
+      "labels": [
+        "Concept"
+      ],
+      "properties": {
+        "id": "Digital Form Of Marriage Fraud"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:75"
+    }
+  },
+  {
+    "n": {
+      "identity": 76,
+      "labels": [
+        "Phenomenon"
+      ],
+      "properties": {
+        "id": "Skimming"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:76"
+    }
+  },
+  {
+    "n": {
+      "identity": 77,
+      "labels": [
+        "Method"
+      ],
+      "properties": {
+        "id": "Illegal Card Data Extraction"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:77"
+    }
+  },
+  {
+    "n": {
+      "identity": 78,
+      "labels": [
+        "Concept"
+      ],
+      "properties": {
+        "id": "Card Duplication (Dubletten)"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:78"
+    }
+  },
+  {
+    "n": {
+      "identity": 79,
+      "labels": [
+        "Concept"
+      ],
+      "properties": {
+        "id": "Manipulated Atm"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:79"
+    }
+  },
+  {
+    "n": {
+      "identity": 80,
+      "labels": [
+        "Concept"
+      ],
+      "properties": {
+        "id": "Pin Interception"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:80"
+    }
+  },
+  {
+    "n": {
+      "identity": 81,
+      "labels": [
+        "Target"
+      ],
+      "properties": {
+        "id": "Bank Card Data"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:81"
+    }
+  },
+  {
+    "n": {
+      "identity": 82,
+      "labels": [
+        "Target"
+      ],
+      "properties": {
+        "id": "Credit Card Data"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:82"
+    }
+  },
+  {
+    "n": {
+      "identity": 83,
+      "labels": [
+        "Target"
+      ],
+      "properties": {
+        "id": "Pin"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:83"
+    }
+  },
+  {
+    "n": {
+      "identity": 84,
+      "labels": [
+        "Tool"
+      ],
+      "properties": {
+        "id": "Skimmer (Card Reader)"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:84"
+    }
+  },
+  {
+    "n": {
+      "identity": 85,
+      "labels": [
+        "Tool"
+      ],
+      "properties": {
+        "id": "Hidden Camera"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:85"
+    }
+  },
+  {
+    "n": {
+      "identity": 86,
+      "labels": [
+        "Tool"
+      ],
+      "properties": {
+        "id": "Fake Keypad"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:86"
+    }
+  },
+  {
+    "n": {
+      "identity": 87,
+      "labels": [
+        "Event"
+      ],
+      "properties": {
+        "id": "Unauthorized Withdrawal"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:87"
+    }
+  },
+  {
+    "n": {
+      "identity": 88,
+      "labels": [
+        "Event"
+      ],
+      "properties": {
+        "id": "Fraudulent Purchases"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:88"
+    }
+  },
+  {
+    "n": {
+      "identity": 89,
+      "labels": [
+        "Law"
+      ],
+      "properties": {
+        "id": "Counterfeiting Payment Cards (§§ 152A, 152B Stgb)"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:89"
+    }
+  },
+  {
+    "n": {
+      "identity": 90,
+      "labels": [
+        "Concept"
+      ],
+      "properties": {
+        "id": "Denial-Of-Service (Dos)"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:90"
+    }
+  },
+  {
+    "n": {
+      "identity": 91,
+      "labels": [
+        "Concept"
+      ],
+      "properties": {
+        "id": "Distributed Denial-Of-Service (Ddos)"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:91"
+    }
+  },
+  {
+    "n": {
+      "identity": 92,
+      "labels": [
+        "Method"
+      ],
+      "properties": {
+        "id": "Infrastructure Overload"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:92"
+    }
+  },
+  {
+    "n": {
+      "identity": 93,
+      "labels": [
+        "Target"
+      ],
+      "properties": {
+        "id": "Internet Services"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:93"
+    }
+  },
+  {
+    "n": {
+      "identity": 94,
+      "labels": [
+        "Target"
+      ],
+      "properties": {
+        "id": "Websites"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:94"
+    }
+  },
+  {
+    "n": {
+      "identity": 95,
+      "labels": [
+        "Target"
+      ],
+      "properties": {
+        "id": "Networks"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:95"
+    }
+  },
+  {
+    "n": {
+      "identity": 96,
+      "labels": [
+        "Event"
+      ],
+      "properties": {
+        "id": "Service Disruption"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:96"
+    }
+  },
+  {
+    "n": {
+      "identity": 97,
+      "labels": [
+        "Event"
+      ],
+      "properties": {
+        "id": "Extortion"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:97"
+    }
+  },
+  {
+    "n": {
+      "identity": 98,
+      "labels": [
+        "Tool"
+      ],
+      "properties": {
+        "id": "Compromised Systems"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:98"
+    }
+  },
+  {
+    "n": {
+      "identity": 99,
+      "labels": [
+        "Concept",
+        "Phenomenon"
+      ],
+      "properties": {
+        "id": "DDoS attack"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:99"
+    }
+  },
+  {
+    "n": {
+      "identity": 100,
+      "labels": [
+        "Concept"
+      ],
+      "properties": {
+        "id": "Disruption Of Availability Through Overload"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:100"
+    }
+  },
+  {
+    "n": {
+      "identity": 101,
+      "labels": [
+        "Event"
+      ],
+      "properties": {
+        "id": "Disrupt Availability"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:101"
+    }
+  },
+  {
+    "n": {
+      "identity": 102,
+      "labels": [
+        "Event"
+      ],
+      "properties": {
+        "id": "Commit Extortion"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:102"
+    }
+  },
+  {
+    "n": {
+      "identity": 103,
+      "labels": [
+        "Concept",
+        "Tool"
+      ],
+      "properties": {
+        "id": "Botnet"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:103"
+    }
+  },
+  {
+    "n": {
+      "identity": 104,
+      "labels": [
+        "Concept"
+      ],
+      "properties": {
+        "id": "Infected Computers"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:104"
+    }
+  },
+  {
+    "n": {
+      "identity": 105,
+      "labels": [
+        "Concept"
+      ],
+      "properties": {
+        "id": "Centralized Control Server"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:105"
+    }
+  },
+  {
+    "n": {
+      "identity": 106,
+      "labels": [
+        "Concept"
+      ],
+      "properties": {
+        "id": "Computing Power Aggregation"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:106"
+    }
+  },
+  {
+    "n": {
+      "identity": 107,
+      "labels": [
+        "Concept"
+      ],
+      "properties": {
+        "id": "Internet Bandwidth Usage"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:107"
+    }
+  },
+  {
+    "n": {
+      "identity": 108,
+      "labels": [
+        "Method"
+      ],
+      "properties": {
+        "id": "Targeted Attack"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:108"
+    }
+  },
+  {
+    "n": {
+      "identity": 109,
+      "labels": [
+        "Target"
+      ],
+      "properties": {
+        "id": "Computers"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:109"
+    }
+  },
+  {
+    "n": {
+      "identity": 110,
+      "labels": [
+        "Target"
+      ],
+      "properties": {
+        "id": "Browser Vulnerabilities"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:110"
+    }
+  },
+  {
+    "n": {
+      "identity": 111,
+      "labels": [
+        "Event"
+      ],
+      "properties": {
+        "id": "Cryptocurrency Mining"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:111"
+    }
+  },
+  {
+    "n": {
+      "identity": 112,
+      "labels": [
+        "Event"
+      ],
+      "properties": {
+        "id": "Unauthorized System Usage"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:112"
+    }
+  },
+  {
+    "n": {
+      "identity": 113,
+      "labels": [
+        "Concept"
+      ],
+      "properties": {
+        "id": "Network Of Infected Computers Controlled Remotely"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:113"
+    }
+  },
+  {
+    "n": {
+      "identity": 114,
+      "labels": [
+        "Framework"
+      ],
+      "properties": {
+        "id": "Investigation"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:114"
+    }
+  },
+  {
+    "n": {
+      "identity": 115,
+      "labels": [
+        "Concept"
+      ],
+      "properties": {
+        "id": "Connection Owner"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:115"
+    }
+  },
+  {
+    "n": {
+      "identity": 116,
+      "labels": [
+        "Question"
+      ],
+      "properties": {
+        "id": "Which It System Was Affected (Pc, Smartphone, Brand, Type)?"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:116"
+    }
+  },
+  {
+    "n": {
+      "identity": 117,
+      "labels": [
+        "Question"
+      ],
+      "properties": {
+        "id": "What Operating System Is Installed (Windows, Ios, Etc.)?"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:117"
+    }
+  },
+  {
+    "n": {
+      "identity": 118,
+      "labels": [
+        "Question"
+      ],
+      "properties": {
+        "id": "Was The Operating System Automatically Updated?"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:118"
+    }
+  },
+  {
+    "n": {
+      "identity": 119,
+      "labels": [
+        "Question"
+      ],
+      "properties": {
+        "id": "Was The Browser Up-To-Date?"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:119"
+    }
+  },
+  {
+    "n": {
+      "identity": 120,
+      "labels": [
+        "Question"
+      ],
+      "properties": {
+        "id": "Which Antivirus Program Was Active? Latest Version?"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:120"
+    }
+  },
+  {
+    "n": {
+      "identity": 121,
+      "labels": [
+        "Question"
+      ],
+      "properties": {
+        "id": "In Cases Of Online Banking Fraud: Which Online Banking Procedure Is Used (Mobile-Tan, Chip-Tan, Etc.)?"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:121"
+    }
+  },
+  {
+    "n": {
+      "identity": 122,
+      "labels": [
+        "Question"
+      ],
+      "properties": {
+        "id": "In Cases Of Online Banking Fraud: Any Indications Of Error Messages (Invalid Tan, Canceled Transactions)?"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:122"
+    }
+  },
+  {
+    "n": {
+      "identity": 123,
+      "labels": [
+        "Question"
+      ],
+      "properties": {
+        "id": "In Cases Of Ransomware Or Malware: Was The Screen Photographed?"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:123"
+    }
+  },
+  {
+    "n": {
+      "identity": 124,
+      "labels": [
+        "Question"
+      ],
+      "properties": {
+        "id": "Did The User Provide Consent For The Evaluation Of The Device Through The Appropriate Consent Form (E.G., In Nrw Through Igvp Or Viv A)?"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:124"
+    }
+  },
+  {
+    "n": {
+      "identity": 125,
+      "labels": [
+        "Investigation method"
+      ],
+      "properties": {
+        "id": "E-Mail Analysis"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:125"
+    }
+  },
+  {
+    "n": {
+      "identity": 126,
+      "labels": [
+        "Concept"
+      ],
+      "properties": {
+        "id": "E-Mail Header"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:126"
+    }
+  },
+  {
+    "n": {
+      "identity": 127,
+      "labels": [
+        "Concept"
+      ],
+      "properties": {
+        "id": "Ip Address"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:127"
+    }
+  },
+  {
+    "n": {
+      "identity": 128,
+      "labels": [
+        "Question"
+      ],
+      "properties": {
+        "id": "Was The Firewall Activated Or Were Additional Security Programs Present (Name, Version)?"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:128"
+    }
+  },
+  {
+    "n": {
+      "identity": 129,
+      "labels": [
+        "Question"
+      ],
+      "properties": {
+        "id": "Software Used With Crime Connection (Product, Source)?"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:129"
+    }
+  },
+  {
+    "n": {
+      "identity": 130,
+      "labels": [
+        "Question"
+      ],
+      "properties": {
+        "id": "Which Websites Were Visited Most Recently?"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:130"
+    }
+  },
+  {
+    "n": {
+      "identity": 131,
+      "labels": [
+        "Question"
+      ],
+      "properties": {
+        "id": "How Is The Pc Connected To The Internet?"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:131"
+    }
+  },
+  {
+    "n": {
+      "identity": 132,
+      "labels": [
+        "Question"
+      ],
+      "properties": {
+        "id": "Which Browser Was Used?"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:132"
+    }
+  },
+  {
+    "n": {
+      "identity": 133,
+      "labels": [
+        "Key questions"
+      ],
+      "properties": {
+        "id": "Investigation Questions"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:133"
+    }
+  },
+  {
+    "n": {
+      "identity": 134,
+      "labels": [
+        "Question"
+      ],
+      "properties": {
+        "id": "Through Which Provider Is The Internet Access Obtained?"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:134"
+    }
+  },
+  {
+    "n": {
+      "identity": 135,
+      "labels": [
+        "Question"
+      ],
+      "properties": {
+        "id": "Were Crime-Relevant Data Altered Or Deleted?"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:135"
+    }
+  },
+  {
+    "n": {
+      "identity": 136,
+      "labels": [
+        "Question"
+      ],
+      "properties": {
+        "id": "Were Personal Data Of The Victim Obtained? (If Yes, How And Which?)"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:136"
+    }
+  },
+  {
+    "n": {
+      "identity": 137,
+      "labels": [
+        "Question"
+      ],
+      "properties": {
+        "id": "Any Peculiarities During System Usage (E.G., \"Crash\")?"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:137"
+    }
+  },
+  {
+    "n": {
+      "identity": 138,
+      "labels": [
+        "Question"
+      ],
+      "properties": {
+        "id": "In Cases Of Online Banking Fraud: Which Bank Is Used For Online Banking?"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:138"
+    }
+  },
+  {
+    "n": {
+      "identity": 139,
+      "labels": [
+        "Form of crime"
+      ],
+      "properties": {
+        "id": "Cybercrime"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:139"
+    }
+  },
+  {
+    "n": {
+      "identity": 140,
+      "labels": [
+        "Category"
+      ],
+      "properties": {
+        "id": "Cybercrime In The Narrow Sense"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:140"
+    }
+  },
+  {
+    "n": {
+      "identity": 141,
+      "labels": [
+        "Category"
+      ],
+      "properties": {
+        "id": "Cybercrime In The Broad Sense"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:141"
+    }
+  },
+  {
+    "n": {
+      "identity": 142,
+      "labels": [
+        "Concept"
+      ],
+      "properties": {
+        "id": "Dynamic Ip Address"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:142"
+    }
+  },
+  {
+    "n": {
+      "identity": 143,
+      "labels": [
+        "Concept"
+      ],
+      "properties": {
+        "id": "Security"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:143"
+    }
+  },
+  {
+    "n": {
+      "identity": 144,
+      "labels": [
+        "Concept"
+      ],
+      "properties": {
+        "id": "Integrity"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:144"
+    }
+  },
+  {
+    "n": {
+      "identity": 145,
+      "labels": [
+        "Concept"
+      ],
+      "properties": {
+        "id": "Conﬁdentiality"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:145"
+    }
+  },
+  {
+    "n": {
+      "identity": 146,
+      "labels": [
+        "Tool"
+      ],
+      "properties": {
+        "id": "Internet"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:146"
+    }
+  },
+  {
+    "n": {
+      "identity": 147,
+      "labels": [
+        "Tool"
+      ],
+      "properties": {
+        "id": "Digital Technologies"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:147"
+    }
+  },
+  {
+    "n": {
+      "identity": 148,
+      "labels": [
+        "Event"
+      ],
+      "properties": {
+        "id": "Crime"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:148"
+    }
+  },
+  {
+    "n": {
+      "identity": 149,
+      "labels": [
+        "Phenomenon"
+      ],
+      "properties": {
+        "id": "Phishing"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:149"
+    }
+  },
+  {
+    "n": {
+      "identity": 150,
+      "labels": [
+        "Concept"
+      ],
+      "properties": {
+        "id": "Spear-Phishing"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:150"
+    }
+  },
+  {
+    "n": {
+      "identity": 151,
+      "labels": [
+        "Concept"
+      ],
+      "properties": {
+        "id": "Social Engineering"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:151"
+    }
+  },
+  {
+    "n": {
+      "identity": 152,
+      "labels": [
+        "Concept"
+      ],
+      "properties": {
+        "id": "Whaling"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:152"
+    }
+  },
+  {
+    "n": {
+      "identity": 153,
+      "labels": [
+        "Concept"
+      ],
+      "properties": {
+        "id": "Trust"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:153"
+    }
+  },
+  {
+    "n": {
+      "identity": 154,
+      "labels": [
+        "Concept"
+      ],
+      "properties": {
+        "id": "Fear"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:154"
+    }
+  },
+  {
+    "n": {
+      "identity": 155,
+      "labels": [
+        "Concept"
+      ],
+      "properties": {
+        "id": "Authority"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:155"
+    }
+  },
+  {
+    "n": {
+      "identity": 156,
+      "labels": [
+        "Event"
+      ],
+      "properties": {
+        "id": "Securing Isp Data"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:156"
+    }
+  },
+  {
+    "n": {
+      "identity": 157,
+      "labels": [
+        "Law"
+      ],
+      "properties": {
+        "id": "Forgery Of Evidentiary Data (§ 269 Stgb)"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:157"
+    }
+  },
+  {
+    "n": {
+      "identity": 158,
+      "labels": [
+        "Law"
+      ],
+      "properties": {
+        "Example": "Fraudulent transfers, billing fraud, misuse of telecommunication services.",
+        "CrimeType": "Fraudulent actions using manipulation of IT systems.",
+        "id": "Computer Fraud (§ 263A Stgb)"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:158"
+    }
+  },
+  {
+    "n": {
+      "identity": 159,
+      "labels": [
+        "Law"
+      ],
+      "properties": {
+        "id": "Data Protection Violation (§ 42 Abs. 2 Nr. 2 Bdsg)"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:159"
+    }
+  },
+  {
+    "n": {
+      "identity": 160,
+      "labels": [
+        "Technology"
+      ],
+      "properties": {
+        "id": "Fake Emails"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:160"
+    }
+  },
+  {
+    "n": {
+      "identity": 161,
+      "labels": [
+        "Technology"
+      ],
+      "properties": {
+        "id": "Fake Websites"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:161"
+    }
+  },
+  {
+    "n": {
+      "identity": 162,
+      "labels": [
+        "Target"
+      ],
+      "properties": {
+        "id": "Online Banking Credentials"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:162"
+    }
+  },
+  {
+    "n": {
+      "identity": 163,
+      "labels": [
+        "Target"
+      ],
+      "properties": {
+        "id": "Sensitive Data"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:163"
+    }
+  },
+  {
+    "n": {
+      "identity": 164,
+      "labels": [
+        "Tool"
+      ],
+      "properties": {
+        "id": "Internet Search Engines"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:164"
+    }
+  },
+  {
+    "n": {
+      "identity": 165,
+      "labels": [
+        "Event"
+      ],
+      "properties": {
+        "id": "Identification Of Sender"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:165"
+    }
+  },
+  {
+    "n": {
+      "identity": 166,
+      "labels": [
+        "Law"
+      ],
+      "properties": {
+        "Example": "Unauthorized access to data repositories.",
+        "CrimeType": "Theft of digital data through unauthorized appropriation.",
+        "id": "Data Spying (§ 202A Stgb)"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:166"
+    }
+  },
+  {
+    "n": {
+      "identity": 167,
+      "labels": [
+        "Law"
+      ],
+      "properties": {
+        "Example": "Intercepting sensitive data during transmission.",
+        "CrimeType": "Interception of data.",
+        "id": "Data Interception (§ 202B Stgb)"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:167"
+    }
+  },
+  {
+    "n": {
+      "identity": 168,
+      "labels": [
+        "Law"
+      ],
+      "properties": {
+        "id": "Severe Computer Sabotage (§ 303B Abs. 2 Stgb)"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:168"
+    }
+  },
+  {
+    "n": {
+      "identity": 169,
+      "labels": [
+        "Law"
+      ],
+      "properties": {
+        "id": "Disturbance Of Systems (§ 317 Abs. 1 Stgb)"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:169"
+    }
+  },
+  {
+    "n": {
+      "identity": 170,
+      "labels": [
+        "Law"
+      ],
+      "properties": {
+        "id": "Negligence In System Disturbance (§ 317 Abs. 3 Stgb)"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:170"
+    }
+  },
+  {
+    "n": {
+      "identity": 171,
+      "labels": [
+        "Law"
+      ],
+      "properties": {
+        "Example": "Programming and distributing hacker tools.",
+        "CrimeType": "Acts that prepare for spying on and intercepting data.",
+        "id": "Preparation Of Hacking (§ 202C Stgb)"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:171"
+    }
+  },
+  {
+    "n": {
+      "identity": 172,
+      "labels": [
+        "Action"
+      ],
+      "properties": {
+        "id": "Production"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:172"
+    }
+  },
+  {
+    "n": {
+      "identity": 173,
+      "labels": [
+        "Action"
+      ],
+      "properties": {
+        "id": "Sale"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:173"
+    }
+  },
+  {
+    "n": {
+      "identity": 174,
+      "labels": [
+        "Phenomenon"
+      ],
+      "properties": {
+        "id": "Ransomware"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:174"
+    }
+  },
+  {
+    "n": {
+      "identity": 175,
+      "labels": [
+        "Investigation method"
+      ],
+      "properties": {
+        "id": "Ip Address Analysis"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:175"
+    }
+  },
+  {
+    "n": {
+      "identity": 176,
+      "labels": [
+        "Concept"
+      ],
+      "properties": {
+        "id": "Procedure To Display Headers"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:176"
+    }
+  },
+  {
+    "n": {
+      "identity": 177,
+      "labels": [
+        "Concept"
+      ],
+      "properties": {
+        "id": "Timestamp"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:177"
+    }
+  },
+  {
+    "n": {
+      "identity": 178,
+      "labels": [
+        "Concept"
+      ],
+      "properties": {
+        "id": "Ripe Ncc (Réseaux Ip Européens Network Coordination Centre)"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:178"
+    }
+  },
+  {
+    "n": {
+      "identity": 179,
+      "labels": [
+        "Concept"
+      ],
+      "properties": {
+        "id": "Top-Level Domain (Tld)"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:179"
+    }
+  },
+  {
+    "n": {
+      "identity": 180,
+      "labels": [
+        "Method"
+      ],
+      "properties": {
+        "id": "Whois Query"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:180"
+    }
+  },
+  {
+    "n": {
+      "identity": 181,
+      "labels": [
+        "Concept"
+      ],
+      "properties": {
+        "id": "Domain"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:181"
+    }
+  },
+  {
+    "n": {
+      "identity": 182,
+      "labels": [
+        "Target"
+      ],
+      "properties": {
+        "id": "Ip Address Owner"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:182"
+    }
+  },
+  {
+    "n": {
+      "identity": 183,
+      "labels": [
+        "Tool"
+      ],
+      "properties": {
+        "id": "Ripe Ncc Database"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:183"
+    }
+  },
+  {
+    "n": {
+      "identity": 184,
+      "labels": [
+        "Law"
+      ],
+      "properties": {
+        "id": "Subscriber Data Disclosure (§ 100J Stpo)"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:184"
+    }
+  },
+  {
+    "n": {
+      "identity": 185,
+      "labels": [
+        "Investigation method"
+      ],
+      "properties": {
+        "id": "Domain Analysis"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:185"
+    }
+  },
+  {
+    "n": {
+      "identity": 186,
+      "labels": [
+        "Concept"
+      ],
+      "properties": {
+        "id": "Process Of Identifying The User Of An Ip Address"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:186"
+    }
+  },
+  {
+    "n": {
+      "identity": 187,
+      "labels": [
+        "Concept"
+      ],
+      "properties": {
+        "id": "Access To Isp Data"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:187"
+    }
+  },
+  {
+    "n": {
+      "identity": 188,
+      "labels": [
+        "Concept"
+      ],
+      "properties": {
+        "id": "Second-Level Domain"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:188"
+    }
+  },
+  {
+    "n": {
+      "identity": 189,
+      "labels": [
+        "Concept"
+      ],
+      "properties": {
+        "id": "Subscriber Data"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:189"
+    }
+  },
+  {
+    "n": {
+      "identity": 190,
+      "labels": [
+        "Concept"
+      ],
+      "properties": {
+        "id": "Network Information Center (Nic)"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:190"
+    }
+  },
+  {
+    "n": {
+      "identity": 191,
+      "labels": [
+        "Concept"
+      ],
+      "properties": {
+        "id": "Whois Database"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:191"
+    }
+  },
+  {
+    "n": {
+      "identity": 192,
+      "labels": [
+        "Concept"
+      ],
+      "properties": {
+        "id": "Historical Whois Data"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:192"
+    }
+  },
+  {
+    "n": {
+      "identity": 193,
+      "labels": [
+        "Method"
+      ],
+      "properties": {
+        "id": "Dns Resolution"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:193"
+    }
+  },
+  {
+    "n": {
+      "identity": 194,
+      "labels": [
+        "Method"
+      ],
+      "properties": {
+        "id": "Historical Domain Lookup"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:194"
+    }
+  },
+  {
+    "n": {
+      "identity": 195,
+      "labels": [
+        "Target"
+      ],
+      "properties": {
+        "id": "Domain Owner (Admin-C)"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:195"
+    }
+  },
+  {
+    "n": {
+      "identity": 196,
+      "labels": [
+        "Target"
+      ],
+      "properties": {
+        "id": "Domain Provider"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:196"
+    }
+  },
+  {
+    "n": {
+      "identity": 197,
+      "labels": [
+        "Target"
+      ],
+      "properties": {
+        "id": "Associated Ip Address"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:197"
+    }
+  },
+  {
+    "n": {
+      "identity": 198,
+      "labels": [
+        "Tool"
+      ],
+      "properties": {
+        "id": "Denic (For .De Domains)"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:198"
+    }
+  },
+  {
+    "n": {
+      "identity": 199,
+      "labels": [
+        "Tool"
+      ],
+      "properties": {
+        "id": "Www.Who.Is (For Historical Data)"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:199"
+    }
+  },
+  {
+    "n": {
+      "identity": 200,
+      "labels": [
+        "Concept"
+      ],
+      "properties": {
+        "id": "Process Of Identifying Domain-Related Information"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:200"
+    }
+  },
+  {
+    "n": {
+      "identity": 201,
+      "labels": [
+        "Concept"
+      ],
+      "properties": {
+        "id": "Personal Data"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:201"
+    }
+  },
+  {
+    "n": {
+      "identity": 202,
+      "labels": [
+        "Concept"
+      ],
+      "properties": {
+        "id": "Technical Data"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:202"
+    }
+  },
+  {
+    "n": {
+      "identity": 203,
+      "labels": [
+        "Target"
+      ],
+      "properties": {
+        "id": "Previous Domain Owner"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:203"
+    }
+  },
+  {
+    "n": {
+      "identity": 204,
+      "labels": [
+        "Concept"
+      ],
+      "properties": {
+        "id": "Top-Level Domain: .De"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:204"
+    }
+  },
+  {
+    "n": {
+      "identity": 205,
+      "labels": [
+        "Concept"
+      ],
+      "properties": {
+        "id": "Email And Ip Address Associations"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:205"
+    }
+  },
+  {
+    "n": {
+      "identity": 207,
+      "labels": [
+        "Concept"
+      ],
+      "properties": {
+        "id": "Process Of Retrieving Subscriber Data From Providers"
+      },
+      "elementId": "4:3ce003bd-d936-4f6d-97c3-15863cdafa35:207"
+    }
+  }
+]
