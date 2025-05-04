@@ -14,12 +14,12 @@ Das Projekt wurde im Rahmen meiner Bachelorarbeit an der DHBW Heilbronn in Koope
 
 ## Technologien & Architektur
 
-- **Python**
-- **Neo4j** als Graphdatenbank
-- **OpenAI GPT-4** zur Sprachverarbeitung
-- **Cypher** zur Abfrage des Knowledge Graph
-- **RAGAS** zur systematischen Evaluierung der Modellleistung
-- **Vektorbasierte Embedding-Suche** zur semantischen Analyse
+- Python
+- Neo4j als Graphdatenbank
+- OpenAI GPT-4 zur Sprachverarbeitung
+- Cypher zur Abfrage des Knowledge Graph
+- RAGAS zur systematischen Evaluierung der Modellleistung
+- Vektorbasierte Embedding-Suche zur semantischen Analyse
 
 ---
 
@@ -38,11 +38,28 @@ Das Projekt wurde im Rahmen meiner Bachelorarbeit an der DHBW Heilbronn in Koope
 ```plaintext
 .
 ├── data/
-│   └── Cybercrime_Cases.csv        # Testdatensatz mit 50 Cybercrime-Fällen
+│   ├── Cybercrime_Cases.csv        # Testdatensatz mit 50 Cybercrime-Fällen
+│   └── README.md                   # Beschreibung des Datensatzes
 ├── graph/
-│   ├── Cypher_Query.pages          # Beispiel-Cypher-Abfragen zur Graph-Nutzung
-│   └── graph.svg                   # Visualisierung des Knowledge Graphen
+│   ├── graph.svg                   # Visualisierung des Knowledge Graphen
+│   ├── graph.json                  # JSON-Export des gesamten Graphen
+│   ├── case2report_query.cypher   # Zentrale Cypher-Abfrage
+│   └── README.md                   # Beschreibung des Graphen & Abfragen
 ├── src/
-│   └── opt_police_KG_LLM.ipynb     # Notebook zur RAG-Logik & Evaluation
+│   ├── opt_police_KG_LLM.ipynb     # Notebook zur RAG-Logik & Evaluation
+│   ├── Fall_11.md                  # Beispielbericht (gute RAGAS-Bewertung)
+│   ├── Fall_36.md                  # Beispielbericht (niedrige Faithfulness)
+│   └── README.md                   # Beschreibung der Analysekomponenten
 ├── README.md                       # Diese Projektbeschreibung
-└── LICENSE                       
+└── LICENSE                         # Lizenzinformation
+
+---
+
+## Hinweise
+
+- Das System basiert auf öffentlich dokumentierten Cybercrime-Vorfällen (keine personenbezogenen Daten).
+- Alle generierten Berichte werden evaluiert nach Faithfulness, Relevanz, Recall und Korrektheit.
+- Die Fallauswahl für Beispielberichte erfolgte gezielt zur Demonstration von Qualitätsspannen innerhalb des Systems:
+  - **Fall 11**: Hohe Bewertungsqualität in allen Metriken
+  - **Fall 36**: Geringe Faithfulness trotz inhaltlicher Korrektheit
+             
